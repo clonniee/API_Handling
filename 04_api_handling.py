@@ -1,4 +1,4 @@
-#added random with own knowledge hence some improvement
+#import request and random for random data 
 # add virtual environment for pc safety ig
 
 import requests 
